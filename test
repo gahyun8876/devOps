@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+echo "test"
+echo "hello"
+eho "fixed"
+=======
 print ("test")
+>>>>>>> 867ed15f801fe46c9549600d0eabfa343b603043
